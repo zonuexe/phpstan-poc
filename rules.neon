@@ -1,0 +1,3 @@
+rules:
+    - zonuexe\PHPStan\Rules\ConstantFetchRule
+    - zonuexe\PHPStan\Rules\FunctionCallRule
